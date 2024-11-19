@@ -16,4 +16,4 @@ This is a simple implementation of the classic Pong game using the Python `Turtl
 2. Make sure Python is installed in your machine
 3. Navigate to the `main.py` file and run it using any editor of your choice.
 
-[PONG](https://github.com/Manish837773/Python-projects/blob/main/pong/imgs/img.png)
+![PONG](https://github.com/Manish837773/Python-projects/blob/main/pong/imgs/img.png)
